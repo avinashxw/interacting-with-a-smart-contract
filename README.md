@@ -40,3 +40,9 @@ Submitting your smart contract to Etherscan
 Crypto Wallet: Coinbase
 Chain: Optimism Sepolia
 Blockchain Node: Alchemy
+
+
+<img src="/alchemy-dashboard-data.png" title="Alchemy dashboard stats" />
+
+
+<img src="/sepolia-optimism-etherscan-address-transactions.png" title="contract address deployed transactions on etherscan" />
